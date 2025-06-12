@@ -62,6 +62,13 @@ an option ``lang`` that you need to set to ``de``:
 {PROJECT_DIR}/protected/vendor/bacularis/bacularis-web/Web/Config/settings.conf
 ```
 
+If you installed Bacularis using binary packages, they are the following paths:
+
+```
+/usr/share/bacularis/protected/vendor/bacularis/bacularis-api/API/Config/api.conf
+/usr/share/bacularis/protected/vendor/bacularis/bacularis-web/Web/Config/settings.conf
+```
+
 ### Step 4 - log out and log in
 
 New language setting will start working after logging out and loggin in. Please log out
