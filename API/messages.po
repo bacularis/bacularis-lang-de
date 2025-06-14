@@ -6,7 +6,7 @@ msgstr ""
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Language:"
@@ -16,7 +16,7 @@ msgid "Language"
 msgstr "Sprache"
 
 msgid "select language"
-msgstr "Sprache auswählen"
+msgstr "Sprache auswÃ¤hlen"
 
 msgid "Previous"
 msgstr "Vorherige"
@@ -25,10 +25,10 @@ msgid "Cancel"
 msgstr "Stornieren"
 
 msgid "Next"
-msgstr "Nächster"
+msgstr "NÃ¤chster"
 
 msgid "Step 1 - select language"
-msgstr "Schritt 1 - Sprache auswählen"
+msgstr "Schritt 1 - Sprache auswÃ¤hlen"
 
 msgid "Step 2 - share the Bacula Catalog Database"
 msgstr "Schritt 2 - Teilen Sie die Bacula-Katalogdatenbank"
@@ -43,13 +43,13 @@ msgid "Database type:"
 msgstr "Datenbanktyp:"
 
 msgid "select database"
-msgstr "Datenbank auswählen"
+msgstr "Datenbank auswÃ¤hlen"
 
 msgid "Database name:"
 msgstr "Datenbankname:"
 
 msgid "Please select database type."
-msgstr "Bitte wählen Sie den Datenbanktyp."
+msgstr "Bitte wÃ¤hlen Sie den Datenbanktyp."
 
 msgid "Please enter database name."
 msgstr "Bitte geben Sie den Datenbanknamen ein."
@@ -97,7 +97,7 @@ msgid "test"
 msgstr "Test"
 
 msgid "Bconsole binary file path:"
-msgstr "Bconsole Binärdateipfad:"
+msgstr "Bconsole BinÃ¤rdateipfad:"
 
 msgid "Please enter bconsole path."
 msgstr "Bitte geben Sie den bconsole Pfad ein."
@@ -124,16 +124,16 @@ msgid "Console API"
 msgstr "Konsole API"
 
 msgid "bdirjson binary file path:"
-msgstr "bdirjson Binärdatei-Pfad:"
+msgstr "bdirjson BinÃ¤rdatei-Pfad:"
 
 msgid "bsdjson binary file path:"
-msgstr "bsdjson Binärdatei-Pfad:"
+msgstr "bsdjson BinÃ¤rdatei-Pfad:"
 
 msgid "bfdjson binary file path:"
-msgstr "bfdjson Binärdatei Pfad:"
+msgstr "bfdjson BinÃ¤rdatei Pfad:"
 
 msgid "bbconsjson binary file path:"
-msgstr "bbconsjson Binärdatei Pfad:"
+msgstr "bbconsjson BinÃ¤rdatei Pfad:"
 
 msgid "Main Director config file path (usually bacula-dir.conf):"
 msgstr ""
@@ -158,11 +158,11 @@ msgid "General configuration"
 msgstr "Allgemeine Konfiguration"
 
 msgid "Step 4 - share the Bacula configuration interface"
-msgstr "Schritt 4 - teilen Sie die Bacula-Konfigurationsoberfläche"
+msgstr "Schritt 4 - teilen Sie die Bacula-KonfigurationsoberflÃ¤che"
 
 msgid "There is required to provide both binary file and config file paths."
 msgstr ""
-"Es ist erforderlich, sowohl Binärdatei- als auch Konfigurationsdateipfade "
+"Es ist erforderlich, sowohl BinÃ¤rdatei- als auch Konfigurationsdateipfade "
 "bereitzustellen."
 
 msgid "Directory path field is required."
@@ -191,7 +191,7 @@ msgid "Please enter password."
 msgstr "Bitte geben Sie das Passwort ein."
 
 msgid "Password must be longer than 4 chars."
-msgstr "Passwort muss länger als 4 Zeichen sein."
+msgstr "Passwort muss lÃ¤nger als 4 Zeichen sein."
 
 msgid "Retype administration password:"
 msgstr "Geben Sie das Administrationspasswort erneut ein:"
@@ -200,13 +200,13 @@ msgid "Please enter retype password."
 msgstr "Bitte geben Sie das Passwort erneut ein."
 
 msgid "Passwords must be the same."
-msgstr "Passwörter müssen gleich sein."
+msgstr "PasswÃ¶rter mÃ¼ssen gleich sein."
 
 msgid "Use HTTP Basic authentication"
 msgstr "Verwenden Sie die HTTP-Basic-Authentifizierung"
 
 msgid "Use OAuth2 for authorization and authentication"
-msgstr "Verwenden Sie OAuth2 für Autorisierung und Authentifizierung"
+msgstr "Verwenden Sie OAuth2 fÃ¼r Autorisierung und Authentifizierung"
 
 msgid "Database port:"
 msgstr "Datenbankport:"
@@ -215,7 +215,7 @@ msgid "Database file path (SQLite only):"
 msgstr "Datenbankdatei-Pfad (nur SQLite):"
 
 msgid "Use sudo for bconsole requests:"
-msgstr "Verwenden Sie sudo für bconsole-Anfragen:"
+msgstr "Verwenden Sie sudo fÃ¼r bconsole-Anfragen:"
 
 msgid "Save"
 msgstr "Speichern"
@@ -224,7 +224,7 @@ msgid "Step 6 - Finish"
 msgstr "Schritt 6 - Fertigstellen"
 
 msgid "Use sudo for Bacula JSON tools:"
-msgstr "Verwenden Sie sudo für Bacula JSON-Tools:"
+msgstr "Verwenden Sie sudo fÃ¼r Bacula JSON-Tools:"
 
 msgid "Main Director config file path:"
 msgstr "Hauptregisseur Konfigurationsdatei Pfad:"
@@ -239,7 +239,7 @@ msgid "Main Bconsole config file path:"
 msgstr "Haupt Bconsole-Konfigurationsdatei-Pfad:"
 
 msgid "Please select API endpoint"
-msgstr "Bitte wählen Sie API-Endpunkt"
+msgstr "Bitte wÃ¤hlen Sie API-Endpunkt"
 
 msgid "Catalog access:"
 msgstr "Katalogzugriff:"
@@ -256,7 +256,7 @@ msgstr "Behindert"
 msgid ""
 "Invalid Client ID value. Client ID may contain a-z A-Z 0-9 - _ characters."
 msgstr ""
-"Ungültiger Client ID-Wert. Client ID kann die Zeichen a-z A-Z 0-9 - _ "
+"UngÃ¼ltiger Client ID-Wert. Client ID kann die Zeichen a-z A-Z 0-9 - _ "
 "enthalten."
 
 msgid "Please enter Client ID."
@@ -275,7 +275,7 @@ msgid ""
 "Invalid Client Secret value. Client Secret may contain any character that is"
 " not a whitespace character."
 msgstr ""
-"Ungültiger Client Secret-Wert. Client Secret kann jedes Zeichen enthalten, "
+"UngÃ¼ltiger Client Secret-Wert. Client Secret kann jedes Zeichen enthalten, "
 "das kein Leerzeichen ist."
 
 msgid "generate"
@@ -307,7 +307,7 @@ msgid "New OAuth2 client"
 msgstr "Neuer OAuth2-Client"
 
 msgid "Add"
-msgstr "Hinzufügen"
+msgstr "HinzufÃ¼gen"
 
 msgid "API Login:"
 msgstr "API-Anmeldung:"
@@ -325,13 +325,13 @@ msgid "Please enter API password."
 msgstr "Bitte geben Sie das API-Passwort ein."
 
 msgid "User added successfully."
-msgstr "Benutzer erfolgreich hinzugefügt."
+msgstr "Benutzer erfolgreich hinzugefÃ¼gt."
 
 msgid ""
 "Problem during save to config file. Please check users config file "
 "permission."
 msgstr ""
-"Problem während des Speicherns in die Konfigurationsdatei. Bitte überprüfen "
+"Problem wÃ¤hrend des Speicherns in die Konfigurationsdatei. Bitte Ã¼berprÃ¼fen "
 "Sie die Berechtigungen der Benutzer-Konfigurationsdatei."
 
 msgid "Given user already exists in config file."
@@ -347,7 +347,7 @@ msgid "Bacularis API Client"
 msgstr "Bacularis API Client"
 
 msgid "Here you can try one from API commands"
-msgstr "Hier können Sie einen von API-Befehlen ausprobieren"
+msgstr "Hier kÃ¶nnen Sie einen von API-Befehlen ausprobieren"
 
 msgid "Starting..."
 msgstr "Beginnend..."
@@ -356,7 +356,7 @@ msgid "Username"
 msgstr "Username"
 
 msgid "Delete"
-msgstr "Löschen"
+msgstr "LÃ¶schen"
 
 msgid "Client ID"
 msgstr "Client ID"
@@ -392,18 +392,18 @@ msgid "Edit OAuth2 client parameters"
 msgstr "Bearbeiten Sie OAuth2-Client-Parameter"
 
 msgid "Select:"
-msgstr "Auswählen:"
+msgstr "AuswÃ¤hlen:"
 
 msgid "Bacularis working directory for Bacula config:"
-msgstr "Bacularis Arbeitsverzeichnis für Bacula-Konfiguration:"
+msgstr "Bacularis Arbeitsverzeichnis fÃ¼r Bacula-Konfiguration:"
 
 msgid ""
 "In this directory Bacularis API saves temporarily Bacula configuration files"
 " (mainly for validation purposes) just before they are written as real "
 "Bacula configuration files."
 msgstr ""
-"In diesem Verzeichnis speichert Bacularis API temporär Bacula-"
-"Konfigurationsdateien (hauptsächlich zu Validierungszwecken), kurz bevor sie"
+"In diesem Verzeichnis speichert Bacularis API temporÃ¤r Bacula-"
+"Konfigurationsdateien (hauptsÃ¤chlich zu Validierungszwecken), kurz bevor sie"
 " als echte Bacula-Konfigurationsdateien geschrieben werden."
 
 msgid "Version:"
@@ -462,9 +462,9 @@ msgid ""
 "If you define them, there will be possible to call these actions via API "
 "interface and by Baculum Web as well."
 msgstr ""
-"Möchten Sie Start-, Stop- und Neustart-Aktionen für Bacula-Komponenten "
-"einrichten? Wenn Sie diese definieren, wird es möglich sein, diese Aktionen "
-"über die API-Schnittstelle und auch über Baculum Web aufzurufen."
+"MÃ¶chten Sie Start-, Stop- und Neustart-Aktionen fÃ¼r Bacula-Komponenten "
+"einrichten? Wenn Sie diese definieren, wird es mÃ¶glich sein, diese Aktionen "
+"Ã¼ber die API-Schnittstelle und auch Ã¼ber Baculum Web aufzurufen."
 
 msgid "Sudo configuration"
 msgstr "Sudo-Konfiguration"
@@ -473,7 +473,7 @@ msgid ""
 "Example sudo configuration for Apache, Nginx and Lighttpd web servers with "
 "default PHP-FPM configuration:"
 msgstr ""
-"Beispiel sudo Konfiguration für Apache, Nginx und Lighttpd Webserver mit "
+"Beispiel sudo Konfiguration fÃ¼r Apache, Nginx und Lighttpd Webserver mit "
 "Standard PHP-FPM Konfiguration:"
 
 msgid "Get sudo configuration"
@@ -483,17 +483,17 @@ msgid ""
 "Please copy appropriate sudo configuration and put it to a new sudoers.d "
 "file for example /etc/sudoers.d/bacularis"
 msgstr ""
-"Bitte kopieren Sie die entsprechende sudo-Konfiguration und fügen Sie sie in"
+"Bitte kopieren Sie die entsprechende sudo-Konfiguration und fÃ¼gen Sie sie in"
 " eine neue sudoers.d-Datei ein, zum Beispiel /etc/sudoers.d/bacularis"
 
 msgid "Step 5 - enable actions for components"
-msgstr "Schritt 5 - Aktionen für Komponenten aktivieren"
+msgstr "Schritt 5 - Aktionen fÃ¼r Komponenten aktivieren"
 
 msgid "Directory path for new config files:"
-msgstr "Verzeichnispfad für neue Konfigurationsdateien:"
+msgstr "Verzeichnispfad fÃ¼r neue Konfigurationsdateien:"
 
 msgid "Use sudo for actions:"
-msgstr "Verwenden Sie sudo für Aktionen:"
+msgstr "Verwenden Sie sudo fÃ¼r Aktionen:"
 
 msgid "Actions setting:"
 msgstr "Aktionseinstellung:"
@@ -505,8 +505,8 @@ msgid ""
 "Please use visudo to add this configuration, otherwise please do remember to"
 " add empty line at the end of file."
 msgstr ""
-"Bitte verwenden Sie visudo, um diese Konfiguration hinzuzufügen, andernfalls"
-" denken Sie bitte daran, am Ende der Datei eine leere Zeile hinzuzufügen."
+"Bitte verwenden Sie visudo, um diese Konfiguration hinzuzufÃ¼gen, andernfalls"
+" denken Sie bitte daran, am Ende der Datei eine leere Zeile hinzuzufÃ¼gen."
 
 msgid "Dashboard"
 msgstr "Armaturenbrett"
@@ -527,13 +527,13 @@ msgid "Welcome"
 msgstr "Willkommen"
 
 msgid "Add user"
-msgstr "Benutzer hinzufügen"
+msgstr "Benutzer hinzufÃ¼gen"
 
 msgid "Edit user"
 msgstr "Benutzer bearbeiten"
 
 msgid "Add OAuth2 client"
-msgstr "Fügen Sie OAuth2-Client hinzu"
+msgstr "FÃ¼gen Sie OAuth2-Client hinzu"
 
 msgid "Are you sure?"
 msgstr "Bist du sicher?"
@@ -560,13 +560,13 @@ msgid "Debug:"
 msgstr "Debug:"
 
 msgid "Add client"
-msgstr "Kunden hinzufügen"
+msgstr "Kunden hinzufÃ¼gen"
 
 msgid "Edit client"
 msgstr "Klient bearbeiten"
 
 msgid "Invalid user. User may contain a-z A-Z 0-9 characters."
-msgstr "Ungültiger Benutzer. Benutzer darf a-z A-Z 0-9 Zeichen enthalten."
+msgstr "UngÃ¼ltiger Benutzer. Benutzer darf a-z A-Z 0-9 Zeichen enthalten."
 
 msgid "Show/hide"
 msgstr "Zeigen/verbergen"
@@ -578,22 +578,22 @@ msgid "Logout"
 msgstr "Abmelden"
 
 msgid "Devices"
-msgstr "Geräte"
+msgstr "GerÃ¤te"
 
 msgid "Autochangers"
 msgstr "Autochangers"
 
 msgid "Add autochanger"
-msgstr "Füge Autochanger hinzu"
+msgstr "FÃ¼ge Autochanger hinzu"
 
 msgid "Device"
-msgstr "Gerät"
+msgstr "GerÃ¤t"
 
 msgid "Name:"
 msgstr "Name:"
 
 msgid "Changer device:"
-msgstr "Wechselgerät:"
+msgstr "WechselgerÃ¤t:"
 
 msgid "Changer command:"
 msgstr "Changer Befehl:"
@@ -605,28 +605,28 @@ msgid "Drive index"
 msgstr "Laufwerksindex"
 
 msgid "Devices:"
-msgstr "Geräte:"
+msgstr "GerÃ¤te:"
 
 msgid "Add device"
-msgstr "Gerät hinzufügen"
+msgstr "GerÃ¤t hinzufÃ¼gen"
 
 msgid "Field cannot be empty."
 msgstr "Feld darf nicht leer sein."
 
 msgid "Invalid value."
-msgstr "Ungültiger Wert."
+msgstr "UngÃ¼ltiger Wert."
 
 msgid "Device with the given name already exists."
-msgstr "Gerät mit dem angegebenen Namen existiert bereits."
+msgstr "GerÃ¤t mit dem angegebenen Namen existiert bereits."
 
 msgid "Edit device"
-msgstr "Gerät bearbeiten"
+msgstr "GerÃ¤t bearbeiten"
 
 msgid "Use CTRL + left-click to multiple item selection"
 msgstr "Verwenden Sie STRG + Linksklick zur Mehrfachauswahl von Elementen"
 
 msgid "Device path:"
-msgstr "Gerätepfad:"
+msgstr "GerÃ¤tepfad:"
 
 msgid "Edit autochanger"
 msgstr "Autochanger bearbeiten"
@@ -637,7 +637,7 @@ msgstr "Autochanger"
 msgid ""
 "Unable to delete device. Please unassign it from autochanger '%s' first."
 msgstr ""
-"Gerät kann nicht gelöscht werden. Bitte erst von Autochanger '%s' entfernen."
+"GerÃ¤t kann nicht gelÃ¶scht werden. Bitte erst von Autochanger '%s' entfernen."
 
 msgid "Autochanger with the given name already exists."
 msgstr "Autochanger mit dem gegebenen Namen existiert bereits."
@@ -649,7 +649,7 @@ msgid "Changer command test:"
 msgstr "Changer Befehl Test:"
 
 msgid "Changer command error"
-msgstr "Befehlsfehler ändern"
+msgstr "Befehlsfehler Ã¤ndern"
 
 msgid "Copy"
 msgstr "Kopieren"
@@ -658,13 +658,13 @@ msgid "Column visibility"
 msgstr "Spaltensichtbarkeit"
 
 msgid "1 row selected"
-msgstr "1 Zeile ausgewählt"
+msgstr "1 Zeile ausgewÃ¤hlt"
 
 msgid "%d rows selected"
-msgstr "%d Zeilen ausgewählt"
+msgstr "%d Zeilen ausgewÃ¤hlt"
 
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
-msgstr "Anzeige _START_ bis _END_ von _TOTAL_ Einträgen"
+msgstr "Anzeige _START_ bis _END_ von _TOTAL_ EintrÃ¤gen"
 
 msgid "First"
 msgstr "Erste"
@@ -673,13 +673,13 @@ msgid "Last"
 msgstr "Letzte"
 
 msgid "No matching records found"
-msgstr "Keine passenden Datensätze gefunden"
+msgstr "Keine passenden DatensÃ¤tze gefunden"
 
 msgid "filtered from _MAX_ total entries"
-msgstr "gefiltert aus _MAX_ Gesamteinträgen"
+msgstr "gefiltert aus _MAX_ GesamteintrÃ¤gen"
 
 msgid "No data available in table"
-msgstr "Keine Daten in der Tabelle verfügbar"
+msgstr "Keine Daten in der Tabelle verfÃ¼gbar"
 
 msgid "Search:"
 msgstr "Suche:"
@@ -688,10 +688,10 @@ msgid "Get pre-defined paths:"
 msgstr "Erhalte vordefinierte Pfade:"
 
 msgid "Select paths"
-msgstr "Wählen Sie Pfade"
+msgstr "WÃ¤hlen Sie Pfade"
 
 msgid "Binaries:"
-msgstr "Binärdateien:"
+msgstr "BinÃ¤rdateien:"
 
 msgid "Configs:"
 msgstr "Konfigurationen:"
@@ -715,10 +715,10 @@ msgid "Welcome to the Bacularis install wizard"
 msgstr "Willkommen beim Bacularis Installationsassistenten"
 
 msgid "Please select language."
-msgstr "Bitte wählen Sie die Sprache."
+msgstr "Bitte wÃ¤hlen Sie die Sprache."
 
 msgid "What services would you like to enable for this installation?"
-msgstr "Welche Dienste möchten Sie für diese Installation aktivieren?"
+msgstr "Welche Dienste mÃ¶chten Sie fÃ¼r diese Installation aktivieren?"
 
 msgid "recommended"
 msgstr "empfohlen"
@@ -731,8 +731,8 @@ msgstr "API-Authentifizierung"
 
 msgid "Use the same credentials for the API and for the web interface"
 msgstr ""
-"Verwenden Sie die gleichen Anmeldedaten für die API und für die Web-"
-"Oberfläche"
+"Verwenden Sie die gleichen Anmeldedaten fÃ¼r die API und fÃ¼r die Web-"
+"OberflÃ¤che"
 
 msgid "Advanced options"
 msgstr "Erweiterte Optionen"
@@ -753,7 +753,7 @@ msgid "API Port:"
 msgstr "API Port:"
 
 msgid "Select OS type"
-msgstr "Wählen Sie den OS-Typ"
+msgstr "WÃ¤hlen Sie den OS-Typ"
 
 msgid "RPM-based system"
 msgstr "RPM-basiertes System"
@@ -915,7 +915,7 @@ msgid "Resource"
 msgstr "Ressource"
 
 msgid "Read-Only"
-msgstr "Schreibgeschützt"
+msgstr "SchreibgeschÃ¼tzt"
 
 msgid "Read-Write"
 msgstr "Lese-Schreib"
@@ -936,7 +936,7 @@ msgid "Preview"
 msgstr "Vorschau"
 
 msgid "All read-only"
-msgstr "Alle schreibgeschützt"
+msgstr "Alle schreibgeschÃ¼tzt"
 
 msgid "All read-write"
 msgstr "Alle Lese-Schreib"
@@ -948,7 +948,7 @@ msgid "Resource permissions"
 msgstr "Ressourcenberechtigungen"
 
 msgid "By default, all resources have read-write permissions."
-msgstr "Standardmäßig haben alle Ressourcen Lese-Schreib-Berechtigungen."
+msgstr "StandardmÃ¤ÃŸig haben alle Ressourcen Lese-Schreib-Berechtigungen."
 
 msgid "Sudo Runas user:"
 msgstr "Sudo Runas Benutzer:"
@@ -957,7 +957,7 @@ msgid "Sudo Runas group:"
 msgstr "Sudo Runas Gruppe:"
 
 msgid "What services do you want to enable for this installation?"
-msgstr "Welche Dienste möchten Sie für diese Installation aktivieren?"
+msgstr "Welche Dienste mÃ¶chten Sie fÃ¼r diese Installation aktivieren?"
 
 msgid "Do you have Bacula installed on this host?"
 msgstr "Haben Sie Bacula auf diesem Host installiert?"
@@ -967,13 +967,13 @@ msgid ""
 " to use Bacularis with them."
 msgstr ""
 "Ja. Ich habe bereits Bacula-Komponente(n) auf diesem Host installiert. Ich "
-"würde gerne Bacularis damit verwenden."
+"wÃ¼rde gerne Bacularis damit verwenden."
 
 msgid ""
 "No. I do not have Bacula installed. I would like to install Bacula now and "
 "use Bacularis with it."
 msgstr ""
-"Nein. Ich habe Bacula nicht installiert. Ich möchte Bacula jetzt "
+"Nein. Ich habe Bacula nicht installiert. Ich mÃ¶chte Bacula jetzt "
 "installieren und Bacularis damit verwenden."
 
 msgid "What is your operating system?"
@@ -1006,7 +1006,7 @@ msgid ""
 "Bacula has been installed successfully. You can close this window and go "
 "further."
 msgstr ""
-"Bacula wurde erfolgreich installiert. Sie können dieses Fenster schließen "
+"Bacula wurde erfolgreich installiert. Sie kÃ¶nnen dieses Fenster schlieÃŸen "
 "und weitergehen."
 
 msgid "Result"
@@ -1016,7 +1016,7 @@ msgid "Raw output"
 msgstr "Rohausgabe"
 
 msgid "Add SUDO settings"
-msgstr "Fügen Sie SUDO-Einstellungen hinzu"
+msgstr "FÃ¼gen Sie SUDO-Einstellungen hinzu"
 
 msgid "Configure Bacularis"
 msgstr "Konfigurieren Sie Bacularis"
@@ -1040,7 +1040,7 @@ msgid "Step"
 msgstr "Schritt"
 
 msgid "Close"
-msgstr "Schließen"
+msgstr "SchlieÃŸen"
 
 msgid "Plugin settings"
 msgstr "Plugin-Einstellungen"
@@ -1049,7 +1049,7 @@ msgid "Installed plugins"
 msgstr "Installierte Plugins"
 
 msgid "Add plugin settings"
-msgstr "Fügen Sie Plugin-Einstellungen hinzu"
+msgstr "FÃ¼gen Sie Plugin-Einstellungen hinzu"
 
 msgid "Plugin name"
 msgstr "Plugin-Name"
@@ -1064,7 +1064,7 @@ msgid "Version"
 msgstr "Version"
 
 msgid "Select plugin"
-msgstr "Plugin auswählen"
+msgstr "Plugin auswÃ¤hlen"
 
 msgid "Plugin"
 msgstr "Plugin"
@@ -1079,9 +1079,9 @@ msgid ""
 "Tip: Use left-click to select table row. Use CTRL + left-click to multiple "
 "row selection. Use SHIFT + left-click to add a range of rows to selection."
 msgstr ""
-"Tipp: Verwenden Sie Linksklick, um Tabellenzeile auszuwählen. Verwenden Sie "
-"STRG + Linksklick, um mehrere Zeilen auszuwählen. Verwenden Sie SHIFT + "
-"Linksklick, um eine Reihe von Zeilen zur Auswahl hinzuzufügen."
+"Tipp: Verwenden Sie Linksklick, um Tabellenzeile auszuwÃ¤hlen. Verwenden Sie "
+"STRG + Linksklick, um mehrere Zeilen auszuwÃ¤hlen. Verwenden Sie SHIFT + "
+"Linksklick, um eine Reihe von Zeilen zur Auswahl hinzuzufÃ¼gen."
 
 msgid "Remove"
 msgstr "Entfernen"
@@ -1102,22 +1102,22 @@ msgid "Hide result"
 msgstr "Ergebnis verbergen"
 
 msgid "Do you want to setup the Bacula Catalog Database access?"
-msgstr "Möchten Sie den Zugriff auf die Bacula-Katalogdatenbank einrichten?"
+msgstr "MÃ¶chten Sie den Zugriff auf die Bacula-Katalogdatenbank einrichten?"
 
 msgid "Bconsole configuration"
 msgstr "Bconsole-Konfiguration"
 
 msgid "Bacularis uses read-only access to the Bacula database."
 msgstr ""
-"Bacularis verwendet schreibgeschützten Zugriff auf die Bacula-Datenbank."
+"Bacularis verwendet schreibgeschÃ¼tzten Zugriff auf die Bacula-Datenbank."
 
 msgid "Bacularis uses Bacula console access to execute Bacula commands."
 msgstr ""
 "Bacularis verwendet den Bacula-Konsolenzugriff, um Bacula-Befehle "
-"auszuführen."
+"auszufÃ¼hren."
 
 msgid "Do you want to setup the Bacula Bconsole access?"
-msgstr "Möchten Sie den Zugriff auf die Bacula Bconsole einrichten?"
+msgstr "MÃ¶chten Sie den Zugriff auf die Bacula Bconsole einrichten?"
 
 msgid "Catalog configuration"
 msgstr "Katalogkonfiguration"
@@ -1138,8 +1138,8 @@ msgid ""
 "The configuration interface enables to configure Bacula components "
 "(Director, Storage, Client and Bconsole)."
 msgstr ""
-"Die Konfigurationsschnittstelle ermöglicht die Konfiguration von Bacula-"
+"Die Konfigurationsschnittstelle ermÃ¶glicht die Konfiguration von Bacula-"
 "Komponenten (Director, Storage, Client und Bconsole)."
 
 msgid "Do you want to setup the Bacula configuration interface?"
-msgstr "Möchten Sie die Bacula-Konfigurationsschnittstelle einrichten?"
+msgstr "MÃ¶chten Sie die Bacula-Konfigurationsschnittstelle einrichten?"
