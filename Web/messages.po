@@ -1886,9 +1886,6 @@ msgstr "Anwendungseinstellungen"
 msgid "Update slots"
 msgstr "Slots aktualisieren"
 
-msgid "Max. number of jobs"
-msgstr "Max. Anzahl an in Tabellen sichtbaren Jobs"
-
 msgid "Max. number of jobs value must be integer greather than 0."
 msgstr "Max. Jobanzahl muss eine ganze Zahl größer als 0 sein."
 
@@ -4680,9 +4677,6 @@ msgstr "flacher Browser"
 
 msgid "tree browser"
 msgstr "Baumbrowser"
-
-msgid "Job age for graphs"
-msgstr "Jobalter auf den Job-Diagrammen des Dashboards"
 
 msgid ""
 "Set age for jobs to display the job graphs on the dashboard page. Setting "
@@ -8205,5 +8199,3 @@ msgstr "Einmalige Nutzung"
 msgid "Web access parameters"
 msgstr "Webzugriffsparameter"
 
-msgid "Number of recent jobs"
-msgstr "Anzahl der neuesten Jobs in der Tabelle auf dem Dashboard"
