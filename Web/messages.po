@@ -1042,17 +1042,11 @@ msgstr "Schneller Zugriff auf Aufgaben"
 msgid "Finished jobs"
 msgstr "Abgeschlossene Aufgaben"
 
-msgid "The most often used:"
-msgstr "Am häufigsten verwendet:"
-
 msgid "Number of clients"
 msgstr "Anzahl der Kunden"
 
 msgid "jobs"
 msgstr "Aufgaben"
-
-msgid "Job count the most used:"
-msgstr "Erzähle die am meisten genutzten Aufgaben:"
 
 msgid "level"
 msgstr "Ebene"
@@ -1892,7 +1886,7 @@ msgstr "Anwendungseinstellungen"
 msgid "Update slots"
 msgstr "Slots aktualisieren"
 
-msgid "Max. number of jobs visible in tables"
+msgid "Max. number of jobs"
 msgstr "Max. Anzahl an in Tabellen sichtbaren Jobs"
 
 msgid "Max. number of jobs value must be integer greather than 0."
@@ -4687,7 +4681,7 @@ msgstr "flacher Browser"
 msgid "tree browser"
 msgstr "Baumbrowser"
 
-msgid "Job age on the dashboard job graphs"
+msgid "Job age for graphs"
 msgstr "Jobalter auf den Job-Diagrammen des Dashboards"
 
 msgid ""
@@ -8211,5 +8205,5 @@ msgstr "Einmalige Nutzung"
 msgid "Web access parameters"
 msgstr "Webzugriffsparameter"
 
-msgid "Number of latest jobs in table on dashboard"
+msgid "Number of recent jobs"
 msgstr "Anzahl der neuesten Jobs in der Tabelle auf dem Dashboard"
